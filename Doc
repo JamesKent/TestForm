@@ -1,0 +1,5 @@
+Simple form used for posting three fields to a MySQL database called game.
+Once the user presses submit on their information this is then validated by a simple jQuery script.
+The form takes three fields Fullname, Email and Game.
+
+If I had more time on the project I would have used the Steam games api in order to populate the list with more relevant games.
